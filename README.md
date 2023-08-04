@@ -14,4 +14,4 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 7) Histogram shown with appropriate labelling: 1 pt
 * (Question 8) Thoughtful answer provided: 1 pt
 
-#This project is to learn more about webscraping and NLP
+#This project is to learn more about webscraping and NLP. This project was done in jupiter notebook
